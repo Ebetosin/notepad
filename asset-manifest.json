@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Notepad/static/js/main.19c133f0.js",
-    "index.html": "/Notepad/index.html",
-    "main.19c133f0.js.map": "/Notepad/static/js/main.19c133f0.js.map"
+    "main.js": "/notepad/static/js/main.19c133f0.js",
+    "index.html": "/notepad/index.html",
+    "main.19c133f0.js.map": "/notepad/static/js/main.19c133f0.js.map"
   },
   "entrypoints": [
     "static/js/main.19c133f0.js"
